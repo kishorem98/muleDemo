@@ -11,4 +11,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<http:listener doc:name="Listener" doc:id="633650a3-9ad0-4c3e-840f-69077783a448" config-ref="HTTP_Listener_config" path="/sample"/>
 		<set-payload value='#["Hi......CI/CD demo"]' doc:name="Set Payload" doc:id="3a9089cb-3c53-485e-928f-7feb81671a5b" />
 	</flow>
+	
+	
 </mule>
