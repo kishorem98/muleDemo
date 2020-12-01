@@ -37,7 +37,7 @@
 				<applicationName>CI/CD-demo-app</applicationName>
 				<password>Ki$horem@98</password>
 				<muleVersion>4.2.2</muleVersion>
-				
+				   
 				</cloudHubDeployment>
 				
 				
