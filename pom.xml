@@ -33,7 +33,7 @@
 				<username>kk_123</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
-				<workerType>Micro</workerType>
+				<workerType>MICRO</workerType>
 				<applicationName>cicd-demoapp</applicationName>
 				<password>Ki$horem@98</password>
 				<muleVersion>4.2.2</muleVersion>
