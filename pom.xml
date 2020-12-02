@@ -29,12 +29,12 @@
 				
 				
 				<cloudHubDeployment>
-				
+				<uri>https://anypoint.mulesoft.com</uri>
 				<username>kk_123</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>CI/CD-demo-app</applicationName>
+				<applicationName>CICD-demo-app1</applicationName>
 				<password>Ki$horem@98</password>
 				<muleVersion>4.2.2</muleVersion>
 				   
