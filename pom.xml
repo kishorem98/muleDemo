@@ -34,7 +34,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>CICD-demo-app1</applicationName>
+				<applicationName>CICD-demoApp-sandbox</applicationName>
 				<password>Ki$horem@98</password>
 				<muleVersion>4.2.2</muleVersion>
 				   
